@@ -102,4 +102,4 @@ This repo intentionally stops at detection + logging + dashboarding, since autom
 - Thresholds (`count`/`seconds` on the scan and sweep rules) were chosen conservatively so a single legitimate retry doesn't trigger an alert — tune these to your actual network's baseline traffic.
 
 ## 👤 Author
-Completed as part of the **CodeAlpha Cyber Security Internship (Task 4)**.
+PuneetCSE28 (Puneet Kumar Bairwa) Completed as part of the **CodeAlpha Cyber Security Internship (Task 4)**.
